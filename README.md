@@ -24,7 +24,3 @@ All results are saved under `outputs/`:
 - `co2adsorb_running_logic_and_teaching.html`: Chinese teaching document with running logic and explanations
 - `llm/llm_prompt_*.txt`: prompt sent to the LLM for each leave-one-out test
 - `llm/llm_response_*.txt`: raw Codex CLI response or fallback note
-
-## Important Limitation
-
-The original repository contains only a small 19-row example dataset. The code is suitable for learning, method reproduction, and classroom demonstration, but the numeric results should not be treated as a full reproduction of the paper.
